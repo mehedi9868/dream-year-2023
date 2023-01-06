@@ -48,3 +48,43 @@
     border-radius: 5px;
 
 }
+
+/* ==== previous failure section css ==== */
+.previous-failure-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 130px;
+
+}
+
+.failure-section-heading {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    margin-bottom: 25px;
+}
+
+.failure-section-details {
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 20px;
+
+}
+
+.failure-list {
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 16px;
+
+}
+
+.failure-list>li {
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-left: 20px;
+}
